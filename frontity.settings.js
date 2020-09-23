@@ -15,7 +15,7 @@ const settings = {
       name: "@frontity/wp-source",
       state: {
         source: {
-          api: "http://dev-solutions.online/wp-json",
+          api: "https://dev-solutions.online/wp-json",
           postTypes: [
             {
               type: "portfolio",
