@@ -2,7 +2,7 @@ const settings = {
   name: "frontity-app",
   state: {
     frontity: {
-      url: "https://acf.dev-solutions.online",
+      url: "https://dev-solutions.online",
       title: "My Theme",
       description: "To jest mój theme na frontity",
     },
